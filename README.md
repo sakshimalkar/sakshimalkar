@@ -45,7 +45,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎵 [Music Platform](https://github.com/sakshimalkar/music-platform) | Responsive music UI with search & embedded audio player | HTML, CSS, JS |
+| 🎵 [Netflix Data-Analysis](https://github.com/sakshimalkar/Netfilx-Data-Analysis-)  Exploratory data analysis on Netflix dataset using Python — uncovering trends in genres, ratings & content growth | Python, Pandas, Seaborn, Matplotlib |
 | 📚 [E-Learning](https://github.com/sakshimalkar/E-Learning) | Interactive course listing platform with clean navigation | HTML, CSS, JS |
 | 🛒 [Volera E-Commerce](https://sakshimalkar.github.io/volera-react-ecommerce/) | React-based storefront with component architecture | React, JS |
 | 💼 [Portfolio](https://sakshimalkar.github.io/portfolio/) | Personal portfolio with projects, skills & contact info | React, Bootstrap |
