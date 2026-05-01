@@ -47,7 +47,7 @@
 |---------|-------------|------------|
 | 🎵 [Music Platform](https://github.com/sakshimalkar/music-platform) | Responsive music UI with search & embedded audio player | HTML, CSS, JS |
 | 📚 [E-Learning](https://github.com/sakshimalkar/E-Learning) | Interactive course listing platform with clean navigation | HTML, CSS, JS |
-| 🛒 [Volera E-Commerce](https://github.com/sakshimalkar/volera-react-ecommerce) | React-based storefront with component architecture | React, JS |
+| 🛒 [Volera E-Commerce](https://sakshimalkar.github.io/volera-react-ecommerce/) | React-based storefront with component architecture | React, JS |
 | 💼 [Portfolio](https://sakshimalkar.github.io/portfolio/) | Personal portfolio with projects, skills & contact info | React, Bootstrap |
 
 </div>
