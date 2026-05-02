@@ -25,6 +25,14 @@
 
 ---
 
+## 💡 Why Work With Me?
+- ✅ Built & deployed **full-stack projects** using Django + React
+- ✅ **143+ GitHub contributions** — I code consistently
+- ✅ Quick learner — currently picking up **DRF & React Hooks**
+- ✅ Strong communication & problem-solving mindset
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
