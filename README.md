@@ -28,7 +28,7 @@
 ## 💡 Why Work With Me?
 - ✅ Built & deployed **full-stack projects** using Django + React
 - ✅ **143+ GitHub contributions** — I code consistently
-- ✅ Quick learner — currently picking up **DRF & React Hooks**
+- ✅ Quick learner — currently picking up **Python FastAPI & React Hooks**
 - ✅ Strong communication & problem-solving mindset
 
 ---
