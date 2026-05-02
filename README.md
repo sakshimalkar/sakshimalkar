@@ -2,13 +2,13 @@
 
 <div align="center">
 
-![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Entry%20Roles-brightgreen?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Open to Work](https://www.linkedin.com/in/sakshi-malkar/)
+![Python](https://github.com/sakshimalkar?tab=repositories&q=python)
+![Django](https://github.com/sakshimalkar?tab=repositories&q=django)
+![JavaScript](https://github.com/sakshimalkar?tab=repositories&q=javascript)
+![React](https://github.com/sakshimalkar/volera-react-ecommerce)
+![HTML5](https://github.com/sakshimalkar/E-Learning)
+![CSS3](https://github.com/sakshimalkar/E-Learning)
 
 </div>
 
