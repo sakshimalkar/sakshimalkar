@@ -17,6 +17,7 @@
 <p align="center">
   <img alt="Open to work" src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Entry%20Roles-22C55E?style=for-the-badge"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+ <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-0B4B2B?style=for-the-badge&logo=django&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111"/>
   <img alt="React" src="https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white"/>
