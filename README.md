@@ -70,6 +70,7 @@
 | 📚 **[E-Learning](https://github.com/sakshimalkar/E-Learning)** | Interactive course listing platform with clean navigation | HTML, CSS, JS |
 | 🛒 **[Volera E-Commerce](https://sakshimalkar.github.io/volera-react-ecommerce/)** | React-based storefront with component architecture | React, JS |
 | 💼 **[Portfolio](https://sakshimalkar.github.io/portfolio/)** | Personal portfolio with projects, skills & contact info | React, Bootstrap |
+| ⚙️ **[FastAPI E-Commerce Backend](https://github.com/sakshimalkar/fastapi-machine-test)** | RESTful CRUD APIs for Category & Product modules with a one-to-many relational schema, Pydantic validation, and auto-generated Swagger docs | FastAPI, Python, SQLAlchemy, MySQL, Pydantic |
 
 </div>
 
