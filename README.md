@@ -78,8 +78,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" alt="Sakshi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sakshimalkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshimalkar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" alt="Sakshi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sakshimalkar&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" />
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshimalkar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" />
 </div>
 
 ---
