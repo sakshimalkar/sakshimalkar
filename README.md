@@ -67,7 +67,7 @@
 | Project | Description | Tech Stack |
 |---|---|---|
 | 🎵 **[Netflix Data-Analysis](https://github.com/sakshimalkar/Netfilx-Data-Analysis-)** | Exploratory data analysis on Netflix dataset using Python — uncovering trends in genres, ratings & content growth | Python, Pandas, Seaborn, Matplotlib |
-| 📚 **[E-Learning](https://github.com/sakshimalkar/E-Learning)** | Interactive course listing platform with clean navigation | HTML, CSS, JS |
+| 📚 **[E-Learning](https://sakshimalkar.github.io/E-Learning/)** | Interactive course listing platform with clean navigation | HTML, CSS, JS |
 | 🛒 **[Volera E-Commerce](https://sakshimalkar.github.io/volera-react-ecommerce/)** | React-based storefront with component architecture | React, JS |
 | 💼 **[Portfolio](https://sakshimalkar.github.io/portfolio/)** | Personal portfolio with projects, skills & contact info | React, Bootstrap |
 | ⚙️ **[FastAPI E-Commerce Backend](https://github.com/sakshimalkar/fastapi-machine-test)** | RESTful CRUD APIs for Category & Product modules with a one-to-many relational schema, Pydantic validation, and auto-generated Swagger docs | FastAPI, Python, SQLAlchemy, MySQL, Pydantic |
